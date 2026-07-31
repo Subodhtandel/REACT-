@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  padding: 30px;
+}
+
+.report {
+  max-width: 900px;
+  margin: auto;
+  background: white;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid gray;
+}
+
+th,
+td {
+  padding: 10px;
+}
+
+.screenshot {
+  width: 300px;
+  border: 1px solid gray;
+  margin-top: 10px;
+}

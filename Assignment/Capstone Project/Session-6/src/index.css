@@ -1,0 +1,42 @@
+body{
+background:#121212;
+font-family:Arial;
+color:white;
+text-align:center;
+margin:0;
+}
+
+.login{
+
+width:320px;
+margin:100px auto;
+
+}
+
+input{
+
+display:block;
+width:100%;
+padding:12px;
+margin:15px 0;
+
+}
+
+button{
+
+padding:12px 25px;
+background:#1DB954;
+border:none;
+color:white;
+cursor:pointer;
+
+}
+
+nav{
+
+display:flex;
+justify-content:space-between;
+padding:20px;
+background:#000;
+
+}

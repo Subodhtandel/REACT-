@@ -1,0 +1,26 @@
+.navbar{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:15px 40px;
+background:#e23744;
+color:white;
+}
+
+.navbar ul{
+display:flex;
+gap:20px;
+list-style:none;
+}
+
+.navbar li{
+cursor:pointer;
+padding:8px 15px;
+border-radius:6px;
+}
+
+.active{
+background:white;
+color:#e23744;
+font-weight:bold;
+}

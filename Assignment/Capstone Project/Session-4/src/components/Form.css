@@ -1,0 +1,21 @@
+.signup{
+display:flex;
+flex-direction:column;
+gap:15px;
+width:350px;
+margin:auto;
+padding:20px;
+box-shadow:0 0 10px gray;
+}
+
+.signup input{
+padding:10px;
+}
+
+.signup button{
+padding:10px;
+background:green;
+color:white;
+border:none;
+cursor:pointer;
+}
